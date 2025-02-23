@@ -1,0 +1,10 @@
+{   
+    "UTM": {
+        "Materias": ["Matemáticas", "Base de datos", "Dispositivos móviles", "Expresión oral y escrita", "Programación web", "Inglés", "Estadística", "Diseño digital", "Administración empresarial", "Comunicación asertiva", "Gestión de proyectos", "Desarrollo de software", "Diseño de interfaces", "Innovación y emprendimiento","Cabrado Industrial" ],
+        "Maestros" : ["Alex Sánchez", "Jorge García", "Luisa Martínez", "María Pérez", "Pedro López", "Rosa Hernández", "Sofía Ramírez", "Tomás González", "Verónica Díaz", "Ximena Vargas", "Yolanda Soto", "Zacarías Torres"],
+        "Horas" : ["10", "20", "30", "40", "50", "60"],
+        "Familias": ["TIC", "Adminsitración", "Diseño digital", "Redes"],
+        "Cursos": ["1er", "2do", "3er", "4to", "5to", "6to", "7mo", "8vo", "9no", "10mo"],
+        "Unidades" : ["1", "2", "3", "4", "5"]
+    }   
+}  
