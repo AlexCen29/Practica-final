@@ -103,3 +103,24 @@
 .custom-table td.text-left {
     text-align: left;
 }
+
+
+@media (max-width: 768px) {
+    .formulario {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .btn-primary {
+        grid-column: span 2; 
+    }
+
+    .unidades {
+        grid-template-columns: 1fr 1fr; 
+        grid-column: span 2;
+    }
+
+    .unidades h3,
+    .unidades h4 {
+        grid-column: span 2; 
+    }
+}
