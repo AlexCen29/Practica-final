@@ -267,7 +267,7 @@ function generarUnidades() {
     
                     <div>
                         <label for="resultado${index}" class="form-label">Resultado de aprendizaje</label>
-                        <input type="text" name="resultado${index}" id="resultado${index}" placeholder="Número de semanas" required>
+                        <input type="text" name="resultado${index}" id="resultado${index}" placeholder="Resultado de aprendizaje" required>
                     </div>
     
                     <div>
